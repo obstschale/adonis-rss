@@ -1,0 +1,23 @@
+{
+  "name": "adonis-rss",
+  "version": "1.0.0",
+  "description": "RSS provider for AdonisJS framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "adonis",
+    "rss",
+    "xml"
+  ],
+  "author": "Hans-Helge Buerger <mail@hanshelgebuerger.de>",
+  "license": "MIT",
+  "dependencies": {
+    "rss": "^1.2.1"
+  },
+  "devDependencies": {
+    "adonis-fold": "^3.0.3",
+    "chai": "^3.5.0"
+  }
+}
