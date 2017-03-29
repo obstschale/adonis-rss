@@ -1,3 +1,14 @@
+
+```
+=========== IMPORTANT / ABANDONED ===========
+
+This package is abonend, because I don't use AdonisJS anymore.
+Maybe it works - maybe not. If you want to adpot this project,
+please open an issue or fork it but inform me, so I can link to it.
+```
+
+***
+
 # Adonis RSS Provider
 
 A RSS provider for the Adonis framework. This package uses the [rss](https://github.com/dylang/node-rss) package by [dylang](https://github.com/dylang).
