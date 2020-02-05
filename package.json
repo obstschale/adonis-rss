@@ -14,10 +14,10 @@
   "author": "Hans-Helge Buerger <mail@hanshelgebuerger.de>",
   "license": "MIT",
   "dependencies": {
+    "@adonisjs/fold": "^4.0.9",
     "rss": "^1.2.1"
   },
   "devDependencies": {
-    "adonis-fold": "^3.0.3",
     "chai": "^3.5.0"
   }
 }
